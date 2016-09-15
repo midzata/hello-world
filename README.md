@@ -1,4 +1,6 @@
 # hello-world
-#test repository
-# rataba so mesto
-# taraba so use edno mesto
+# test repository
+nema taraba
+taraba so prazno mesto
+ovde gore da se dodaj taraba
+kraj
